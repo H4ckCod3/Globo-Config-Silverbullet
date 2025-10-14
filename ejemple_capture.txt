@@ -1,0 +1,1 @@
+gg-project@hotmail.com:canpeon100 | NAME = [German] | NUMBER = [null] | PAYMENT = [Add new card, Add a PayPal account] | CONFIG BY = @Jimoo_21
